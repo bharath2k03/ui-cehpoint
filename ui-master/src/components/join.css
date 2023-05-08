@@ -1,0 +1,164 @@
+nav {
+    background-color: #ffffff;
+    margin: 1%;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    color: #000000;
+    text-decoration: none;
+    font-size: 18px;
+  }
+
+  button{
+    margin-right: 840px;
+  }
+
+  .hero{
+    background-color: #EBF3FF;
+    
+    
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    
+  }
+
+  .hero-welcome{
+   display: inline-flex;
+    color: #000000;
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 44px;
+    margin-left: 30px;
+    margin-top: 100px;
+    
+
+    }
+
+    .hero-para{
+        display: inline;
+        font-family: 'Hanken Grotesk';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 21px;
+        margin-top: 30px;
+        padding: 30px;
+    }
+
+    .hero-inline-box{
+        
+        background-color: #ffffff;
+        margin-left: 50%;
+        padding-top: 10px;
+        display: inline-block;
+        padding-bottom: 20px;
+        margin-bottom: 40px;
+        margin-top: -190px;
+        width: 600px;
+        height: 250px;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .hero-inline-box-h2
+    {
+      display: inline-block;
+        font-family: 'Hanken Grotesk';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 104.3%;
+        padding-left: 20px;
+        padding-top: 20px;
+        margin-top: 20px;
+        
+        
+    }
+  
+.hero-img
+{
+  display: inline-block;
+  width:200px;
+  height: 150px;
+  margin-left: 55%;
+  margin-top: -100px;
+  
+}
+.span
+{
+  padding: 30px;
+}
+.hero-span
+{
+  padding-left: 5px;
+}
+
+.button-group
+{
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-right: 30px;
+  display: inline-block;
+  word-spacing: 40px;
+  margin-left: 8.5%;
+}
+
+.btn-a:hover{
+  text-decoration: underline;
+}
+.btn-b:hover{
+   text-decoration: underline;
+}
+
+.card{
+  width: 70%;
+
+}
+
+.get-started-p{
+  margin-left: 10.5%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.container{
+  padding: 50px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+}
+
+.btn-group{
+  margin-left: 10.5%;
+
+}
+
+.btn-outline-primary{
+  border-radius: 0%;
+  padding-right: 7%;
+  padding-left: 7%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;  
+}
+
+.btn-left{
+  margin-right: -0.01%;
+}
+
+.line {
+  margin-top: -0.8%;
+  border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
